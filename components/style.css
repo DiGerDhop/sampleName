@@ -128,12 +128,29 @@ h1, h2, h3, h4, h5, h6{
     
 }
 .iphone12promax{
-    width: 1289px;;
-    height: 500px;
+    width: 1289px;
+    height: 700px;
     background-color: aquamarine;
+    margin: auto;
+    padding-top: 3px;
+    display: flex;
+    
 }
 .iPhonekartinka{
-    width: 645px;
-    height: 495px;
-    margin-left: 300px;
+    height: 500px;
+    margin-left: 450px;
+    padding-top: 2px;
+}
+.iphonetext{
+
+}
+.iphonetext2{
+    width: 55px;
+    height: 50px;
+    margin-left: 70px;
+    margin-top: 50px                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ;
+}
+.iphoneleft{
+    margin-top: 200px;
+    margin-left: 80px;
 }
